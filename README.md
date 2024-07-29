@@ -1,7 +1,7 @@
-# Telecom-Churn-Prediction
+# Telecom Churn Prediction 📞
+
 Author- Rishav Kumar
 
-# Telecom Churn Prediction 📞
 
 ## Overview
 
